@@ -16,7 +16,6 @@ public class spiralmatrix{
             {
                 System.out.print(matrix[i][ec]);
             }
-            // System.out.println();
             //bottom
             for(int i=ec-1;i>=sc;i--)
             {
