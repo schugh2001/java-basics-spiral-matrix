@@ -1,5 +1,5 @@
 import java.util.*;
-public class spiralmatrix{
+public class spiralmatrx{
     public static void spiral(int matrix[][])
     {   int sr=0,sc=0,ec=matrix[0].length-1,er=matrix.length-1;
         
