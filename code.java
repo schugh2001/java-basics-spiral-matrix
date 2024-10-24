@@ -65,6 +65,7 @@ public class spiralmatrix{
         //     System.out.println();
         // }
         spiral(matrix);
+        System.out.print("Bobyeeeeeeeeeeeeeeeeeeeeeeee");
         
 
     }
