@@ -40,6 +40,7 @@ public class spiralmatrix{
             er--;
             sc++;
             ec--;
+            ec--;
         }
     }
     public static void main(String args[]){
